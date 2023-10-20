@@ -18,6 +18,7 @@
     width: 100px;
 }
 .logo {
+     background-image: url("logo3.jpg");
     
     background-size: cover;
     height: 40px;
